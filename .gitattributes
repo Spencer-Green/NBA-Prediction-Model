@@ -1,1 +1,2 @@
 *.py linguist-detect=Python
+*.csv filter=lfs diff=lfs merge=lfs -text
